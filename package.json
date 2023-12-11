@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "monkecraft-launcher",
   "version": "2.1.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "productName": "MonkeCraft Launcher",
+  "description": "MonkeCraft Minecraft Launcher",
+  "author": "Fayorg (https://github.com/fayorg/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Fayorg/MonkeCraft-Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Fayorg/MonkeCraft-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Fayorg/MonkeCraft-Launcher.git"
   }
 }
